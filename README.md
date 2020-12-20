@@ -20,10 +20,10 @@ Here we are going to visualization of (a.) Mean Square Error vs Number of Epochs
 Regression plots using seaborn :-
 
 
-(a.)    ![Reg](https://user-images.githubusercontent.com/60821747/102718072-2a1acc80-430c-11eb-84d8-81adb39d7254.png
+(a.)    ![Reg](https://user-images.githubusercontent.com/60821747/102718072-2a1acc80-430c-11eb-84d8-81adb39d7254.png)
 
 
-(b.)    ![ZN vs Price](https://user-images.githubusercontent.com/60821747/102718061-1bccb080-430c-11eb-8277-2c0c449ceec1.png
+(b.)    ![ZN vs Price](https://user-images.githubusercontent.com/60821747/102718061-1bccb080-430c-11eb-8277-2c0c449ceec1.png)
 
 
 (c.)    ![RM](https://user-images.githubusercontent.com/60821747/102718075-3010ad80-430c-11eb-81d1-517627811594.png)
